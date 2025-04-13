@@ -26,7 +26,7 @@ function initBannerLink() {
     rotate();
 }
 function newLocation() {
-    document.location.href = "http://www." + adURL[theAd];
+    document.location.href = "https://www." + heroURL[heroIndex];
     return false;
 }
 
